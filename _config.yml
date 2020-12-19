@@ -1,7 +1,7 @@
 # Site
-name: "자밥스튜디오"
-title: "자밥스튜디오"
-description: "자밥스튜디오 게임, 생활, 아이템, 책, 영화!"
+name: "게임만드는아빠"
+title: "게임만드는아빠"
+description: "게임만드는아빠"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /Blog
