@@ -1,7 +1,7 @@
 # Site
-name: "자밥이의 필수아이템"
-title: "자밥이의 필수아이템"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "자밥스튜디오"
+title: "자밥스튜디오"
+description: "자밥스튜디오 게임, 생활, 아이템, 책, 영화!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /Blog
@@ -42,7 +42,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 10
 paginate_path: /page:num/
     
 # Other
