@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  " Culinary Arts in Europe by Jean Anthelme Brillat-Savarin"
-author: sal
+title:  "무한더던전"
+author: zacra
 categories: [ 아이템 ]
 image: assets/images/7.jpg
 ---
